@@ -1,0 +1,8 @@
+C:\Users\abdul\source\repos\CryptoProject\CryptoProject\bin\Debug\CryptoProject.exe.config
+C:\Users\abdul\source\repos\CryptoProject\CryptoProject\bin\Debug\CryptoProject.exe
+C:\Users\abdul\source\repos\CryptoProject\CryptoProject\bin\Debug\CryptoProject.pdb
+C:\Users\abdul\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.Form1.resources
+C:\Users\abdul\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.Properties.Resources.resources
+C:\Users\abdul\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.exe
+C:\Users\abdul\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.pdb
